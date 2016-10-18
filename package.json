@@ -1,0 +1,24 @@
+{
+  "name": "al-style",
+  "version": "0.1.0",
+  "description": "AL 框架默认样式库",
+  "keywords": [
+    "alaska",
+    "labrador"
+  ],
+  "main": "index.less",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maichong/al-style.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maichong/al-style/issues"
+  },
+  "homepage": "https://github.com/maichong/al-style#readme",
+  "author": {
+    "email": "liang@maichong.it",
+    "name": "Liang",
+    "url": "https://github.com/liangxingchen"
+  }
+}
